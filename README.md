@@ -1,5 +1,9 @@
 # PayWay
 
+![Money King](img/168667.png)
+
+https://openclipart.org/detail/168667/burn-money-king
+
 Payway is a distributed payment portal network written in Go programming language 
 
 # License
